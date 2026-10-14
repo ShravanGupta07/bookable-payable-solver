@@ -1,0 +1,87 @@
+{
+  "file": "HLD-10.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-05-07",
+      "due_date": "2026-06-04",
+      "currency": "EUR",
+      "supplier_name": "Speedwell Estonia AS",
+      "supplier_tax_id": "1878768",
+      "supplier_address": "High Street 36, 75310 Harju maakond, Estonia",
+      "customer_name": "Northwind Operations OÜ",
+      "customer_tax_id": "27044945",
+      "customer_address": "Vana-Louna 15, 10134",
+      "po_number": "",
+      "gross_total": "254.52",
+      "subtotal": "223.98",
+      "total_tax_amount": "30.54",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Transporditasu / Transport fee",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "157.62",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "157.62",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "157.62"
+        },
+        {
+          "line_number": 2,
+          "description": "Lisatasud kokku / Surcharges",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "66.36",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "66.36",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "66.36"
+        }
+      ],
+      "taxes": [
+        {
+          "tax_name": "Estonian VAT 24%",
+          "tax_rate": "24.00",
+          "tax_amount": "30.54",
+          "tax_type_code": "EST_240_VAT"
+        }
+      ],
+      "supplier": {
+        "name": "Speedwell Estonia AS",
+        "vat_id": "1878768",
+        "address": "High Street 36, 75310 Harju maakond, Estonia",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "EE001",
+        "location_code": "LOC_EE_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "EE001",
+      "location_code": "LOC_EE_001",
+      "payment_term_id": "",
+      "net_total": "223.98",
+      "tax_total": "30.54"
+    }
+  ],
+  "declined": []
+}

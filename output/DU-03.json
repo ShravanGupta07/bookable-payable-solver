@@ -1,0 +1,236 @@
+{
+  "file": "DU-03.pdf",
+  "payables": [
+    {
+      "invoice_number": "0107892268",
+      "invoice_date": "2025-11-17",
+      "invoice_type": "INVOICE",
+      "supplier_name": "Blueharbor Logistics & Services Singapore Pte. Ltd.",
+      "supplier_id": "",
+      "customer_name": "Cadence PTE. LTD.",
+      "company_code": "",
+      "po_id": "",
+      "payment_term_id": "Net_60",
+      "due_date": "2026-01-16",
+      "currency": "USD",
+      "gross_total": "1040.06",
+      "net_total": 1040.06,
+      "tax_total": 0.0,
+      "discount_amount": "0.0",
+      "freight_charges": "0.0",
+      "insurance_charges": "0.0",
+      "extra_charges": "0.0",
+      "excise_duties": "0.0",
+      "taxes": [
+        {
+          "tax_type_code": "SG_000_GST",
+          "tax_rate": "0.0",
+          "taxable_amount": 1040.06,
+          "tax_amount": "0.0"
+        }
+      ],
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "International Freight",
+          "quantity": "567.0",
+          "uom": "KG",
+          "unit_price": "1.28",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 2,
+          "description": "Origin Terminal Handling",
+          "quantity": "567.0",
+          "uom": "KG",
+          "unit_price": "0.1",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 3,
+          "description": "Documentation Fee",
+          "quantity": "1.0",
+          "uom": "EA",
+          "unit_price": "45.0",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 4,
+          "description": "Delivery",
+          "quantity": "567.0",
+          "uom": "KG",
+          "unit_price": "0.04",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 5,
+          "description": "Pick-up",
+          "quantity": "567.0",
+          "uom": "KG",
+          "unit_price": "0.18",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 6,
+          "description": "Customs DEJTWOXDBWJ - Export",
+          "quantity": "1.0",
+          "uom": "EA",
+          "unit_price": "7.5",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 7,
+          "description": "Origin Documentation",
+          "quantity": "1.0",
+          "uom": "EA",
+          "unit_price": "15.0",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 8,
+          "description": "Customs DEJTWOXDBWJ - Import",
+          "quantity": "1.0",
+          "uom": "EA",
+          "unit_price": "15.0",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 9,
+          "description": "Carrier Manifest Filing",
+          "quantity": "1.0",
+          "uom": "EA",
+          "unit_price": "5.0",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        },
+        {
+          "line_number": 10,
+          "description": "DEHVZCKRPYE Terminal Handling",
+          "quantity": "567.0",
+          "uom": "KG",
+          "unit_price": "0.08",
+          "discount": "0.0",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        }
+      ],
+      "subtotal": "",
+      "total_tax_amount": "",
+      "supplier": {
+        "supplier_id": ""
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      }
+    },
+    {
+      "invoice_number": "P2H-AT",
+      "invoice_date": "2025-10-28",
+      "invoice_type": "INVOICE",
+      "supplier_name": "Polvex (Far East) Ltd",
+      "supplier_id": "",
+      "customer_name": "Cadence PTE. LTD.",
+      "company_code": "BOLTGROUP",
+      "po_id": "",
+      "payment_term_id": "",
+      "due_date": "",
+      "currency": "EUR",
+      "gross_total": "4499.00",
+      "net_total": "4499.00",
+      "tax_total": "0.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "taxes": [],
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "P2H-AT",
+          "quantity": "550.0",
+          "uom": "EA",
+          "unit_price": "8.18",
+          "discount": "0.00",
+          "taxes": [],
+          "total": "4499.00",
+          "net_total": "4499.00"
+        }
+      ],
+      "subtotal": "4499.00",
+      "total_tax_amount": "0.00",
+      "supplier": {
+        "supplier_id": "",
+        "name": "Polvex (Far East) Ltd"
+      },
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      }
+    }
+  ],
+  "declined": [
+    {
+      "doc_type": "Shipment Cartage Advice",
+      "reason": "Non-payable shipping / cartage advice document"
+    },
+    {
+      "doc_type": "Customs Permit",
+      "reason": "Singapore Customs In-Non-Payment permit, non-payable supporting document"
+    },
+    {
+      "doc_type": "Air Waybill",
+      "reason": "House Air Waybill (HAWB), non-payable transport document"
+    }
+  ]
+}

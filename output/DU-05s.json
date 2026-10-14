@@ -1,0 +1,18 @@
+{
+  "file": "DU-05s.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "Delivery Note",
+      "reason": "Delivery note document with no invoice number, financial totals, or payment request. Non-payable document."
+    },
+    {
+      "doc_type": "Delivery Note",
+      "reason": "Delivery note document with no invoice number, financial totals, or payment request. Non-payable document."
+    },
+    {
+      "doc_type": "Delivery Note",
+      "reason": "Delivery note document with no invoice number, financial totals, or payment request. Non-payable document."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "file": "INV-35.pdf",
+  "payables": [
+    {
+      "invoice_number": "0248727220",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2018-06-27",
+      "due_date": "2018-06-27",
+      "currency": "USD",
+      "supplier_name": "Ciox Health",
+      "supplier_tax_id": "58-2659941",
+      "supplier_address": "P.O. Box 409875, Atlanta, GA 30384-9875",
+      "customer_name": "AMERIHEALTH CARITAS LA",
+      "customer_tax_id": "",
+      "customer_address": "PO BOX 83580, BATON ROUGE, LA 70884-3580",
+      "po_number": "1000020040",
+      "gross_total": "30.25",
+      "subtotal": "27.50",
+      "total_tax_amount": "2.75",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Basic Fee",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "",
+          "unit_price": "25.50",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "25.50",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "25.50"
+        },
+        {
+          "line_number": 2,
+          "description": "Retrieval Fee",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "",
+          "unit_price": "0.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "0.00",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "0.00"
+        },
+        {
+          "line_number": 3,
+          "description": "Per Page Copy (Paper)",
+          "item_code": "",
+          "quantity": "13",
+          "uom": "PAGE",
+          "unit_price": "0.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "0.00",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "0.00"
+        },
+        {
+          "line_number": 4,
+          "description": "Electronic Data Archive Fee",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "",
+          "unit_price": "2.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "2.00",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "2.00"
+        }
+      ],
+      "taxes": [
+        {
+          "tax_name": "Sales Tax",
+          "tax_rate": "10.0",
+          "tax_amount": "2.75",
+          "tax_type_code": "VN_100_VAT"
+        }
+      ],
+      "supplier": {
+        "name": "Ciox Health",
+        "vat_id": "58-2659941",
+        "address": "P.O. Box 409875, Atlanta, GA 30384-9875",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "27.50",
+      "tax_total": "2.75"
+    }
+  ],
+  "declined": []
+}

@@ -1,0 +1,10 @@
+{
+  "file": "DU-09.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "Donation and Sponsorship Form",
+      "reason": "Internal request / approval form for donations and charitable contributions, not a bookable vendor invoice or payable document."
+    }
+  ]
+}

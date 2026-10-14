@@ -1,0 +1,99 @@
+{
+  "file": "INV-09.pdf",
+  "payables": [
+    {
+      "invoice_number": "11768395",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2025/06/06",
+      "due_date": "2025/06/27",
+      "currency": "EUR",
+      "supplier_name": "Cloverdale Trading",
+      "supplier_tax_id": "EE418070965",
+      "supplier_address": "10112, Gartenweg 13, Harju county ESTONIA",
+      "customer_name": "Northwind Operations OÜ",
+      "customer_tax_id": "EE398766194",
+      "customer_address": "Lindenstrasse 15, EE-10134 TALLINN",
+      "po_number": "",
+      "gross_total": "37767.32",
+      "subtotal": "37767.32",
+      "total_tax_amount": "0.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Import duties",
+          "item_code": "752",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "31889.09",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "31889.09",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": "EST_000_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "31889.09"
+        },
+        {
+          "line_number": 2,
+          "description": "Customs VAT",
+          "item_code": "751",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "5878.23",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "5878.23",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": "EST_000_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "5878.23"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Cloverdale Trading",
+        "vat_id": "EE418070965",
+        "address": "10112, Gartenweg 13, Harju county ESTONIA",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "EE001",
+        "location_code": "LOC_EE_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "EE001",
+      "location_code": "LOC_EE_001",
+      "payment_term_id": "",
+      "net_total": "37767.32",
+      "tax_total": "0.00"
+    }
+  ],
+  "declined": [
+    {
+      "doc_type": "Customs Permit / Declaration",
+      "reason": "Attached customs declaration sheet (Blackpine Services S.A.) detailing import breakdown; supporting non-payable document."
+    }
+  ]
+}

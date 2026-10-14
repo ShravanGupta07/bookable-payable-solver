@@ -1,0 +1,72 @@
+{
+  "file": "INV-32.pdf",
+  "payables": [
+    {
+      "invoice_number": "72",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2018-06-05",
+      "due_date": "2018-06-19",
+      "currency": "USD",
+      "supplier_name": "215 B.E.A.R.S.",
+      "supplier_tax_id": "",
+      "supplier_address": "4613 Conshohocken Avenue Philadelphia PA 19131",
+      "customer_name": "Amerihealthcaritas Transportation",
+      "customer_tax_id": "",
+      "customer_address": "",
+      "po_number": "30193",
+      "gross_total": "750.00",
+      "subtotal": "750.00",
+      "total_tax_amount": "0.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "5/31/18 1- 15 15 passenger van from Philly going to DC pick back up in DC coming back to to Philly . 8:30am to 5:30pm 9hr",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "750.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "750.00",
+          "taxes": [
+            {
+              "tax_name": "TAX",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": "DE_000_RC"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "750.00"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "215 B.E.A.R.S.",
+        "vat_id": "",
+        "address": "4613 Conshohocken Avenue Philadelphia PA 19131",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "Net_14",
+      "net_total": "750.00",
+      "tax_total": "0.00"
+    }
+  ],
+  "declined": []
+}

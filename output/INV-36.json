@@ -1,0 +1,65 @@
+{
+  "file": "INV-36.pdf",
+  "payables": [
+    {
+      "invoice_number": "44273107",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2018-06-18",
+      "due_date": "2018-07-18",
+      "currency": "USD",
+      "supplier_name": "Oracle America, Inc.",
+      "supplier_tax_id": "94-2805249",
+      "supplier_address": "500 Oracle Parkway, Redwood Shores, CA 94065, United States",
+      "customer_name": "AmeriHealth Caritas Services",
+      "customer_tax_id": "",
+      "customer_address": "200 Stevens Drive, Philadelphia, PA 19113, United States",
+      "po_number": "1000021496",
+      "gross_total": "91580.50",
+      "subtotal": "91580.50",
+      "total_tax_amount": "0.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Managed Cloud Services - Computer and Administration Services - Managed Cloud Services - Additional Services 18-JUL-2018 : 17-OCT-2018",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "91580.50",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "91580.50",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "91580.50"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Oracle America, Inc.",
+        "vat_id": "94-2805249",
+        "address": "500 Oracle Parkway, Redwood Shores, CA 94065, United States",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "Net_30",
+      "net_total": "91580.50",
+      "tax_total": "0.00"
+    }
+  ],
+  "declined": []
+}

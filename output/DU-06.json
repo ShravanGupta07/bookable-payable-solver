@@ -1,0 +1,165 @@
+{
+  "file": "DU-06.pdf",
+  "payables": [
+    {
+      "invoice_number": "FN 05/80906935",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-06-15",
+      "due_date": "2026-07-16",
+      "currency": "EUR",
+      "supplier_name": "Blackpine Supply S.A",
+      "supplier_tax_id": "785255159",
+      "supplier_address": "Qta da Mendanha, OTAPARK,, Fração AN, 2580-490 Carregado",
+      "customer_name": "Northwind SUPPORT SERVICES PT, UNIPESSOAL",
+      "customer_tax_id": "353598648",
+      "customer_address": "Bahnhofstrasse 224, 1250-148 LISBOA",
+      "po_number": "80120853",
+      "gross_total": "153.58",
+      "subtotal": "138.20",
+      "total_tax_amount": "15.38",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Empanadilha Atum Cozida (50u)",
+          "item_code": "62782",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "41.68",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "41.68",
+          "taxes": [
+            {
+              "tax_name": "IVA",
+              "tax_rate": "23.00",
+              "tax_amount": "9.59",
+              "tax_type_code": "PT_230_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "41.68"
+        },
+        {
+          "line_number": 2,
+          "description": "Pao Burger Brioch LeBrio14px4u",
+          "item_code": "67110",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "28.43",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "28.43",
+          "taxes": [
+            {
+              "tax_name": "IVA",
+              "tax_rate": "6.00",
+              "tax_amount": "1.71",
+              "tax_type_code": "PT_060_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "28.43"
+        },
+        {
+          "line_number": 3,
+          "description": "Chapata Cristallino 28px2u",
+          "item_code": "67322",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "25.94",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "25.94",
+          "taxes": [
+            {
+              "tax_name": "IVA",
+              "tax_rate": "6.00",
+              "tax_amount": "1.56",
+              "tax_type_code": "PT_060_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "25.94"
+        },
+        {
+          "line_number": 4,
+          "description": "Pao Maestra Classica 7u",
+          "item_code": "85101",
+          "quantity": "2",
+          "uom": "EA",
+          "unit_price": "13.43",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "26.86",
+          "taxes": [
+            {
+              "tax_name": "IVA",
+              "tax_rate": "6.00",
+              "tax_amount": "1.61",
+              "tax_type_code": "PT_060_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "26.86"
+        },
+        {
+          "line_number": 5,
+          "description": "Pao Maestra Cereais 7u",
+          "item_code": "85102",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "15.29",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "15.29",
+          "taxes": [
+            {
+              "tax_name": "IVA",
+              "tax_rate": "6.00",
+              "tax_amount": "0.91",
+              "tax_type_code": "PT_060_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "15.29"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Blackpine Supply S.A",
+        "vat_id": "785255159",
+        "address": "Qta da Mendanha, OTAPARK,, Fração AN, 2580-490 Carregado",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "138.20",
+      "tax_total": "15.38"
+    }
+  ],
+  "declined": [
+    {
+      "doc_type": "Delivery Note",
+      "reason": "Page 2 is a delivery note (Guia de Remessa / Guia de Transporte) detailing delivery lots and confirmation, not a bookable payable invoice."
+    }
+  ]
+}

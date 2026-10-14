@@ -1,0 +1,116 @@
+{
+  "file": "INV-25.pdf",
+  "payables": [
+    {
+      "invoice_number": "FAC A98/712",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-04-13",
+      "due_date": "2026-05-13",
+      "currency": "EUR",
+      "supplier_name": "Fairmont Services LDA",
+      "supplier_tax_id": "PT456472637",
+      "supplier_address": "High Street 34, 1000-137 LISBOA",
+      "customer_name": "Support Services PT Unipessoal, Lda",
+      "customer_tax_id": "353598648",
+      "customer_address": "Rua do Ouro 224, 1250-148 Lisboa",
+      "po_number": "",
+      "gross_total": "176.00",
+      "subtotal": "143.09",
+      "total_tax_amount": "32.91",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "FOT./IMPRESSÃO A4 CORES ESTUD.",
+          "item_code": "C6",
+          "quantity": "400.00",
+          "uom": "UNI",
+          "unit_price": "0.325203",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "130.08",
+          "taxes": [
+            {
+              "tax_name": "Portugal IVA 23%",
+              "tax_rate": "23",
+              "tax_amount": "29.92",
+              "tax_type_code": "PT_230_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "130.08"
+        },
+        {
+          "line_number": 2,
+          "description": "FOLHA 80g",
+          "item_code": "FL1",
+          "quantity": "400.00",
+          "uom": "UNI",
+          "unit_price": "0.0000",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "0.00",
+          "taxes": [
+            {
+              "tax_name": "Portugal IVA 23%",
+              "tax_rate": "23",
+              "tax_amount": "0.00",
+              "tax_type_code": "PT_230_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "0.00"
+        },
+        {
+          "line_number": 3,
+          "description": "FOLHA 120g",
+          "item_code": "FL2",
+          "quantity": "200.00",
+          "uom": "UNI",
+          "unit_price": "0.065041",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "13.01",
+          "taxes": [
+            {
+              "tax_name": "Portugal IVA 23%",
+              "tax_rate": "23",
+              "tax_amount": "2.99",
+              "tax_type_code": "PT_230_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "13.01"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Fairmont Services LDA",
+        "vat_id": "PT456472637",
+        "address": "High Street 34, 1000-137 LISBOA",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "Net_30",
+      "net_total": "143.09",
+      "tax_total": "32.91"
+    }
+  ],
+  "declined": []
+}

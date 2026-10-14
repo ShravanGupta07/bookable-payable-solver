@@ -1,0 +1,65 @@
+{
+  "file": "INV-33.pdf",
+  "payables": [
+    {
+      "invoice_number": "ADIPL/INV/070/17",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2017-06-08",
+      "due_date": "2017-06-08",
+      "currency": "SGD",
+      "supplier_name": "AD NOTIONS INT'L PTE. LTD.",
+      "supplier_tax_id": "53057406C",
+      "supplier_address": "20 Sin Ming Lane Midview City #08-61 Singapore 573968",
+      "customer_name": "Changi Airport Group (S) Pte Ltd",
+      "customer_tax_id": "",
+      "customer_address": "PO Box 168 Singapore Changi Airport Singapore 918146",
+      "po_number": "",
+      "gross_total": "250.00",
+      "subtotal": "250.00",
+      "total_tax_amount": "0.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "PROJECT : Pillar Signage Panel For Shuttle Service At T2 Coach Bay (Lot No. 8)\nProcess : Supply of 2mm thick clear poly-carbonate sheet with reverse black color base & install onto existing pillar with A3 size digital print Matt lamination onto panel surface. Please note; drilling work is applicable for this job (Day Work). *Excluding any dismantling work.\nPanel Size : 500mm(W) x 500mm(H)\nRemarks : Design & Ready FA for production are all to be provided by client",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "pc",
+          "unit_price": "250.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "250.00",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "250.00"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "AD NOTIONS INT'L PTE. LTD.",
+        "vat_id": "53057406C",
+        "address": "20 Sin Ming Lane Midview City #08-61 Singapore 573968",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "250.00",
+      "tax_total": "0.00"
+    }
+  ],
+  "declined": []
+}

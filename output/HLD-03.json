@@ -1,0 +1,72 @@
+{
+  "file": "HLD-03.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2025-12-02",
+      "due_date": "2026-01-01",
+      "currency": "EUR",
+      "supplier_name": "Zoomcopia Impressao Lda",
+      "supplier_tax_id": "PT501234567",
+      "supplier_address": "Rua do Ouro 120, 1100-063 Lisboa, PT",
+      "customer_name": "Bolt Technology OU",
+      "customer_tax_id": "",
+      "customer_address": "Rua da Boavista 32, 1350-017 Lisboa",
+      "po_number": "",
+      "gross_total": "67.25",
+      "subtotal": "123.36",
+      "total_tax_amount": "7.74",
+      "discount_amount": "63.85",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "TRINCA ALE T22 6X1500 CXE NTT EAN:5601012004984",
+          "item_code": "5601012004984",
+          "quantity": "1",
+          "uom": "CX",
+          "unit_price": "123.36",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "123.36",
+          "taxes": [
+            {
+              "tax_name": "IVA",
+              "tax_rate": "13",
+              "tax_amount": "7.74",
+              "tax_type_code": "PT_130_IVA"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "123.36"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Zoomcopia Impressao Lda",
+        "vat_id": "PT501234567",
+        "address": "Rua do Ouro 120, 1100-063 Lisboa, PT",
+        "supplier_id": "2900112"
+      },
+      "supplier_id": "2900112",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "EE001",
+        "location_code": "LOC_EE_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "EE001",
+      "location_code": "LOC_EE_001",
+      "payment_term_id": "Net_30",
+      "net_total": "123.36",
+      "tax_total": "7.74"
+    }
+  ],
+  "declined": []
+}

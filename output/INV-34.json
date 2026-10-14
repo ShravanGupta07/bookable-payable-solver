@@ -1,0 +1,72 @@
+{
+  "file": "INV-34.pdf",
+  "payables": [
+    {
+      "invoice_number": "I220-127612",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2015-06-20",
+      "due_date": "2015-06-27",
+      "currency": "AUD",
+      "supplier_name": "Asian Pacific Serviced Offices Pty Ltd",
+      "supplier_tax_id": "11 068 012 653",
+      "supplier_address": "Level 3, 480 Collins Street, Melbourne VIC 3000",
+      "customer_name": "Zycus Infotech Private Limited",
+      "customer_tax_id": "",
+      "customer_address": "Level 9, 440 Collins Street, Melbourne VIC 3000",
+      "po_number": "",
+      "gross_total": "572.00",
+      "subtotal": "520.00",
+      "total_tax_amount": "52.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Licence Fees - Suite 313b (Period: 20/06/2015 - 19/07/2015)",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "520.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "520.00",
+          "taxes": [
+            {
+              "tax_name": "GST",
+              "tax_rate": "10",
+              "tax_amount": "52.00",
+              "tax_type_code": "VN_100_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "520.00"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Asian Pacific Serviced Offices Pty Ltd",
+        "vat_id": "11 068 012 653",
+        "address": "Level 3, 480 Collins Street, Melbourne VIC 3000",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "Net_7",
+      "net_total": "520.00",
+      "tax_total": "52.00"
+    }
+  ],
+  "declined": []
+}

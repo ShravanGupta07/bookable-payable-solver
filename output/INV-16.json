@@ -1,0 +1,87 @@
+{
+  "file": "INV-16.pdf",
+  "payables": [
+    {
+      "invoice_number": "TLLIR72836045",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2025-06-09",
+      "due_date": "2025-07-07",
+      "currency": "EUR",
+      "supplier_name": "Speedwell Express Estonia AS",
+      "supplier_tax_id": "EE445462205",
+      "supplier_address": "Bahnhofstrasse 32, 11415 Tallinn, ESTONIA",
+      "customer_name": "Northwind Operations OU",
+      "customer_tax_id": "952774062",
+      "customer_address": "VANA-LÕUNA TN 15, 10134 TALLINN, ESTONIA",
+      "po_number": "",
+      "gross_total": "26.47",
+      "subtotal": "21.70",
+      "total_tax_amount": "4.77",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "ECONOMY SELECT",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "18.87",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "18.87",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "18.87"
+        },
+        {
+          "line_number": 2,
+          "description": "FUEL SURCHARGE",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "2.83",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "2.83",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "2.83"
+        }
+      ],
+      "taxes": [
+        {
+          "tax_name": "KM",
+          "tax_rate": "22.00",
+          "tax_amount": "4.77",
+          "tax_type_code": "EST_220_VAT"
+        }
+      ],
+      "supplier": {
+        "name": "Speedwell Express Estonia AS",
+        "vat_id": "EE445462205",
+        "address": "Bahnhofstrasse 32, 11415 Tallinn, ESTONIA",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "EE001",
+        "location_code": "LOC_EE_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "EE001",
+      "location_code": "LOC_EE_001",
+      "payment_term_id": "",
+      "net_total": "21.70",
+      "tax_total": "4.77"
+    }
+  ],
+  "declined": []
+}

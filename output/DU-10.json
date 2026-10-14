@@ -1,0 +1,87 @@
+{
+  "file": "DU-10.pdf",
+  "payables": [
+    {
+      "invoice_number": "5900366703",
+      "invoice_type": "CREDIT_MEMO",
+      "invoice_date": "2026-04-15",
+      "due_date": "2026-05-15",
+      "currency": "GBP",
+      "supplier_name": "Blackpine Consulting Limited",
+      "supplier_tax_id": "GB447324473",
+      "supplier_address": "Parnu mnt 50 Bahnhofstrasse 65 Chippenham SN14 0GF",
+      "customer_name": "Northwind Services UK Limited",
+      "customer_tax_id": "GB726874417",
+      "customer_address": "Jalan Ampang 157 Jalan Ampang 175 London SE1 4GT UNITED KINGDOM",
+      "po_number": "",
+      "gross_total": "5076.17",
+      "subtotal": "4230.14",
+      "total_tax_amount": "846.03",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Logitech Tap Scheduler Touch Controller",
+          "item_code": "4582314",
+          "quantity": "6",
+          "uom": "",
+          "unit_price": "457.24",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "2743.44",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "2743.44"
+        },
+        {
+          "line_number": 2,
+          "description": "Logitech Tap Touch Controller Cat5e Kit",
+          "item_code": "4541892",
+          "quantity": "2",
+          "uom": "",
+          "unit_price": "743.35",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "1486.70",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "1486.70"
+        }
+      ],
+      "taxes": [
+        {
+          "tax_name": "VAT 20 %",
+          "tax_rate": "20",
+          "tax_amount": "846.03",
+          "tax_type_code": "GB_200_VAT"
+        }
+      ],
+      "supplier": {
+        "name": "Blackpine Consulting Limited",
+        "vat_id": "GB447324473",
+        "address": "Parnu mnt 50 Bahnhofstrasse 65 Chippenham SN14 0GF",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "GB001",
+        "location_code": "LOC_GB_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "GB001",
+      "location_code": "LOC_GB_001",
+      "payment_term_id": "Net_30",
+      "net_total": "4230.14",
+      "tax_total": "846.03"
+    }
+  ],
+  "declined": []
+}

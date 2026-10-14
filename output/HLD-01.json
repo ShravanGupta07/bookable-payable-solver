@@ -1,0 +1,78 @@
+{
+  "file": "HLD-01.pdf",
+  "payables": [
+    {
+      "invoice_number": "SI6675/02/467",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-05-05",
+      "due_date": "2026-05-05",
+      "currency": "THB",
+      "supplier_name": "บริษัท ชิงค์ ครีเอชั่น จำกัด",
+      "supplier_tax_id": "0105556100879",
+      "supplier_address": "เลขที่ 799/124 หมู่ที่ 3 ตำบลแพรกษา จังหวัดสมุทรปราการ 10280",
+      "customer_name": "Northwind SUPPORT SERVICES (THAILAND) LIMITED",
+      "customer_tax_id": "4053930153035",
+      "customer_address": "เลขที่ 8 อาคารทีวัน ชั้นที่ 16 ห้องเลขที่ 16-103 16-104 16-105 ซอยสุขุมวิท 40 ถนนสุขุมวิท แขวงพระโขนง เขตคลองเตย กรุงเทพมหานคร",
+      "po_number": "",
+      "gross_total": "8161.92",
+      "subtotal": "7200.00",
+      "total_tax_amount": "313.92",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "648.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Staff 2 Units X 6 Days",
+          "item_code": "",
+          "quantity": "12",
+          "uom": "EA",
+          "unit_price": "600.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "7200.00",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "7200.00"
+        }
+      ],
+      "taxes": [
+        {
+          "tax_name": "Vat 7 %",
+          "tax_rate": "7",
+          "tax_amount": "549.36",
+          "tax_type_code": "DE_070_VAT"
+        },
+        {
+          "tax_name": "Withholding Tax 3%",
+          "tax_rate": "3",
+          "tax_amount": "-235.44",
+          "tax_type_code": "WHT_030"
+        }
+      ],
+      "supplier": {
+        "name": "บริษัท ชิงค์ ครีเอชั่น จำกัด",
+        "vat_id": "0105556100879",
+        "address": "เลขที่ 799/124 หมู่ที่ 3 ตำบลแพรกษา จังหวัดสมุทรปราการ 10280",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "7200.00",
+      "tax_total": "549.36"
+    }
+  ],
+  "declined": []
+}

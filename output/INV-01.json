@@ -1,0 +1,94 @@
+{
+  "file": "INV-01.pdf",
+  "payables": [
+    {
+      "invoice_number": "852566",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-02-02",
+      "due_date": "2026-02-12",
+      "currency": "EUR",
+      "supplier_name": "Kingsley Media",
+      "supplier_tax_id": "EE398766194",
+      "supplier_address": "",
+      "customer_name": "Herrn Alex Kask",
+      "customer_tax_id": "",
+      "customer_address": "Lindenstrasse 15, 10134 Estonia",
+      "po_number": "",
+      "gross_total": "438.00",
+      "subtotal": "438.00",
+      "total_tax_amount": "0.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Projektmanagement Nachberechnung aus November",
+          "item_code": "",
+          "quantity": "4.0",
+          "uom": "Std.",
+          "unit_price": "73.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "292.00",
+          "taxes": [
+            {
+              "tax_name": "MwSt",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": "EST_000_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "292.00"
+        },
+        {
+          "line_number": 2,
+          "description": "Projektmanagement Nachberechnung aus Dezember",
+          "item_code": "",
+          "quantity": "2.0",
+          "uom": "Std.",
+          "unit_price": "73.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "146.00",
+          "taxes": [
+            {
+              "tax_name": "MwSt",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": "EST_000_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "146.00"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Kingsley Media",
+        "vat_id": "EE398766194",
+        "address": "",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "EE001",
+        "location_code": "LOC_EE_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "EE001",
+      "location_code": "LOC_EE_001",
+      "payment_term_id": "Net_10",
+      "net_total": "438.00",
+      "tax_total": "0.00"
+    }
+  ],
+  "declined": []
+}

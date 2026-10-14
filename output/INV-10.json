@@ -1,0 +1,87 @@
+{
+  "file": "INV-10.pdf",
+  "payables": [
+    {
+      "invoice_number": "18533",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-03-25",
+      "due_date": "2026-04-24",
+      "currency": "EUR",
+      "supplier_name": "Larkspur Print OÜ",
+      "supplier_tax_id": "EE755780626",
+      "supplier_address": "Jalan Ampang 60, Tallinn, Harju maakond 10412",
+      "customer_name": "Northwind Operations OÜ",
+      "customer_tax_id": "EE398766194",
+      "customer_address": "Rua do Ouro 15, Tallinn, Harju maakond 10134",
+      "po_number": "",
+      "gross_total": "594.30",
+      "subtotal": "479.27",
+      "total_tax_amount": "115.03",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "17/03 Toitlustus",
+          "item_code": "001",
+          "quantity": "1",
+          "uom": "kord",
+          "unit_price": "479.28",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "479.28",
+          "taxes": [
+            {
+              "tax_name": "Käibemaks 24%",
+              "tax_rate": "24",
+              "tax_amount": "115.03",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "479.28"
+        },
+        {
+          "line_number": 2,
+          "description": "Ümardus",
+          "item_code": "YM",
+          "quantity": "1",
+          "uom": "",
+          "unit_price": "-0.01",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "-0.01",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "-0.01"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Larkspur Print OÜ",
+        "vat_id": "EE755780626",
+        "address": "Jalan Ampang 60, Tallinn, Harju maakond 10412",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "EE001",
+        "location_code": "LOC_EE_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "EE001",
+      "location_code": "LOC_EE_001",
+      "payment_term_id": "Net_30",
+      "net_total": "479.27",
+      "tax_total": "115.03"
+    }
+  ],
+  "declined": []
+}

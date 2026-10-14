@@ -1,0 +1,65 @@
+{
+  "file": "INV-31.pdf",
+  "payables": [
+    {
+      "invoice_number": "39015",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2018-06-01",
+      "due_date": "2018-06-18",
+      "currency": "USD",
+      "supplier_name": "100 Airport KPG III, LLC.",
+      "supplier_tax_id": "",
+      "supplier_address": "125 E Elm Street, Suite 400, Conshohocken, PA 19428",
+      "customer_name": "AmeriHealth Caritas",
+      "customer_tax_id": "",
+      "customer_address": "200 Stevens Drive, Suite 100, Lester, PA 19113",
+      "po_number": "16299",
+      "gross_total": "17657.53",
+      "subtotal": "17657.53",
+      "total_tax_amount": "0.00",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Electric 04/27/18-05/16/18",
+          "item_code": "",
+          "quantity": "100",
+          "uom": "",
+          "unit_price": "176.5753",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "17657.53",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "17657.53"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "100 Airport KPG III, LLC.",
+        "vat_id": "",
+        "address": "125 E Elm Street, Suite 400, Conshohocken, PA 19428",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "17657.53",
+      "tax_total": "0.00"
+    }
+  ],
+  "declined": []
+}

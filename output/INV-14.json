@@ -1,0 +1,116 @@
+{
+  "file": "INV-14.pdf",
+  "payables": [
+    {
+      "invoice_number": "INV-1587",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-31",
+      "currency": "GBP",
+      "supplier_name": "Northwind Services UK Ltd",
+      "supplier_tax_id": "474927490",
+      "supplier_address": "Rua do Ouro 175, Taper Studio, London, SE1 4GT",
+      "customer_name": "Silverbrook Media Limited",
+      "customer_tax_id": "",
+      "customer_address": "2nd Floor, Parnu mnt 117, Parnu mnt 26, London, Middlesex, N1 9RY, UNITED KINGDOM",
+      "po_number": "",
+      "gross_total": "29253.72",
+      "subtotal": "26042.68",
+      "total_tax_amount": "3211.04",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Management Fee for June 2026",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "14620.18",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "14620.18",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "20",
+              "tax_amount": "2924.04",
+              "tax_type_code": "GB_200_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "14620.18"
+        },
+        {
+          "line_number": 2,
+          "description": "Business Rates for June 2026",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "9987.50",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "9987.50",
+          "taxes": [
+            {
+              "tax_name": "No VAT",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": "DE_000_RC"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "9987.50"
+        },
+        {
+          "line_number": 3,
+          "description": "Utilities for June 2026",
+          "item_code": "",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "1435.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "1435.00",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "20",
+              "tax_amount": "287.00",
+              "tax_type_code": "GB_200_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "1435.00"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Northwind Services UK Ltd",
+        "vat_id": "474927490",
+        "address": "Rua do Ouro 175, Taper Studio, London, SE1 4GT",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "Net_30",
+      "net_total": "26042.68",
+      "tax_total": "3211.04"
+    }
+  ],
+  "declined": []
+}

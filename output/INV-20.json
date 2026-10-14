@@ -1,0 +1,72 @@
+{
+  "file": "INV-20.pdf",
+  "payables": [
+    {
+      "invoice_number": "20423591",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-02-16",
+      "due_date": "2026-03-08",
+      "currency": "CHF",
+      "supplier_name": "Elektra",
+      "supplier_tax_id": "CHE-726.894.710",
+      "supplier_address": "Avenida Central 60\n8005 Zurich",
+      "customer_name": "Northwind CH sarl",
+      "customer_tax_id": "",
+      "customer_address": "Market Road 26\n8008\nSwitzerland",
+      "po_number": "",
+      "gross_total": "12.10",
+      "subtotal": "11.19",
+      "total_tax_amount": "0.91",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "King King Tony Cap 1/2 & quot Torx tip with T45x60mm hole\n24 Months Warranty (2/16/2026 - 2/16/2028)",
+          "item_code": "35605506",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "11.19",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "11.19",
+          "taxes": [
+            {
+              "tax_name": "VAT 8.10%",
+              "tax_rate": "8.1",
+              "tax_amount": "0.91",
+              "tax_type_code": "CH_081_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "11.19"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Elektra",
+        "vat_id": "CHE-726.894.710",
+        "address": "Avenida Central 60\n8005 Zurich",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "11.19",
+      "tax_total": "0.91"
+    }
+  ],
+  "declined": []
+}

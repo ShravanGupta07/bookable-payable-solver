@@ -1,0 +1,77 @@
+{
+  "file": "INV-03.pdf",
+  "payables": [
+    {
+      "invoice_number": "INV-75162461",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2025-05-25",
+      "due_date": "2025-06-08",
+      "currency": "ZAR",
+      "supplier_name": "Cloverdale Print Ltd",
+      "supplier_tax_id": "3590736231",
+      "supplier_address": "Bahnhofstrasse 9, Bahnhofstrasse 9",
+      "customer_name": "Northwind Services ZA (Pty) Ltd",
+      "customer_tax_id": "9446639440",
+      "customer_address": "",
+      "po_number": "PO-ZA218-81-057014",
+      "gross_total": "8550.00",
+      "subtotal": "7434.78",
+      "total_tax_amount": "1115.22",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Contract Office cleaning - Contract",
+          "item_code": "Item14607",
+          "quantity": "1.00",
+          "uom": "EA",
+          "unit_price": "7434.78",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "7434.78",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "1115.22",
+              "tax_type_code": "ZAF_150_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "7434.78"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Cloverdale Print Ltd",
+        "vat_id": "3590736231",
+        "address": "Bahnhofstrasse 9, Bahnhofstrasse 9",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "Net_14",
+      "net_total": "7434.78",
+      "tax_total": "1115.22"
+    }
+  ],
+  "declined": [
+    {
+      "doc_type": "Payment Advice",
+      "reason": "This is a payment remittance advice slip accompanying the invoice rather than a bookable payable document."
+    }
+  ]
+}

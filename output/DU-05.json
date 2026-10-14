@@ -1,0 +1,67 @@
+{
+  "file": "DU-05.pdf",
+  "payables": [
+    {
+      "invoice_number": "7363916",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-06-30",
+      "due_date": "2026-09-28",
+      "currency": "SGD",
+      "supplier_name": "Vantek Asia Pte Ltd.",
+      "supplier_id": "",
+      "supplier_tax_id": "207490313H",
+      "supplier_address": "High Street 7, #03-66/67/68/69, Singapore 737664, Singapore",
+      "customer_name": "Cadence Pte. Ltd - Standard",
+      "customer_address": "Jalan Ampang 08, Singapore 539775",
+      "customer_tax_id": "",
+      "payment_term_id": "Net_90",
+      "po_number": "3057199",
+      "delivery_note_number": "8358769",
+      "net_total": "771.66",
+      "tax_total": "0.00",
+      "gross_total": "771.66",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "discount_amount": "0.00",
+      "line_items": [
+        {
+          "line_id": "80",
+          "description": "4108044 F:WSA_89424080 _HSS (N) H2940 DKC",
+          "item_code": "4108044",
+          "quantity": "100",
+          "uom": "PC",
+          "unit_price": "7.7166",
+          "net_total": "771.66",
+          "discount": "0.00",
+          "taxes": [],
+          "total": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": ""
+        }
+      ],
+      "taxes": [
+        {
+          "tax_type_code": "SG_000_GST",
+          "tax_rate": "0",
+          "tax_amount": "0.00",
+          "base_amount": "771.66"
+        }
+      ],
+      "subtotal": "",
+      "total_tax_amount": "",
+      "excise_duties": "",
+      "supplier": {
+        "supplier_id": ""
+      },
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      }
+    }
+  ],
+  "declined": []
+}

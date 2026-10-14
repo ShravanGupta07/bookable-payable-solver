@@ -1,0 +1,72 @@
+{
+  "file": "HLD-08.pdf",
+  "payables": [
+    {
+      "invoice_number": "162547",
+      "invoice_type": "INVOICE",
+      "invoice_date": "19/05/2026",
+      "due_date": "",
+      "currency": "ZAR",
+      "supplier_name": "Cloverdale Partners CC",
+      "supplier_tax_id": "2731114415",
+      "supplier_address": "PO Box 2505, Market Road 73, Rua do Ouro 138, 4300",
+      "customer_name": "Meridian Technologies",
+      "customer_tax_id": "7414745407",
+      "customer_address": "High Street 1, EXT 1, Johannesburg, GP 1401",
+      "po_number": "9267418170",
+      "gross_total": "148941.47",
+      "subtotal": "129514.32",
+      "total_tax_amount": "19427.15",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Hall's Smooth Fruit Punch 1lt M 337521 WT037912 CG",
+          "item_code": "TGB001/531",
+          "quantity": "468.000",
+          "uom": "1000",
+          "unit_price": "276.74",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "129514.32",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15.00",
+              "tax_amount": "19427.15",
+              "tax_type_code": "ZAF_150_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "129514.32"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Cloverdale Partners CC",
+        "vat_id": "2731114415",
+        "address": "PO Box 2505, Market Road 73, Rua do Ouro 138, 4300",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "129514.32",
+      "tax_total": "19427.15"
+    }
+  ],
+  "declined": []
+}

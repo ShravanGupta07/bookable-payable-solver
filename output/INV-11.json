@@ -1,0 +1,138 @@
+{
+  "file": "INV-11.pdf",
+  "payables": [
+    {
+      "invoice_number": "18109293",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2026-04-07",
+      "due_date": "2026-04-28",
+      "currency": "EUR",
+      "supplier_name": "Northwind Operations OÜ",
+      "supplier_tax_id": "EE64670685",
+      "supplier_address": "Parnu mnt 10, 2695671 S?o Jo?o da Talha, PORTUGAL",
+      "customer_name": "Meridian Media",
+      "customer_tax_id": "EE063536009",
+      "customer_address": "Gartenweg 12",
+      "po_number": "EE398766194",
+      "gross_total": "83.21",
+      "subtotal": "67.10",
+      "total_tax_amount": "16.11",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "AGREED PICKUP FEE",
+          "item_code": "408",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "5.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "5.00",
+          "taxes": [
+            {
+              "tax_name": "KM VAT",
+              "tax_rate": "24.0",
+              "tax_amount": "1.20",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "5.00"
+        },
+        {
+          "line_number": 2,
+          "description": "TARNEKULUD",
+          "item_code": "551",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "53.40",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "53.40",
+          "taxes": [
+            {
+              "tax_name": "KM VAT",
+              "tax_rate": "24.0",
+              "tax_amount": "12.82",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "53.40"
+        },
+        {
+          "line_number": 3,
+          "description": "AGREED DELIVERY FEE",
+          "item_code": "805",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "5.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "5.00",
+          "taxes": [
+            {
+              "tax_name": "KM VAT",
+              "tax_rate": "24.0",
+              "tax_amount": "1.20",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "5.00"
+        },
+        {
+          "line_number": 4,
+          "description": "BAF 6,93% (16.03-29.03)",
+          "item_code": "920",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "3.70",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "3.70",
+          "taxes": [
+            {
+              "tax_name": "KM VAT",
+              "tax_rate": "24.0",
+              "tax_amount": "0.89",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "3.70"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Northwind Operations OÜ",
+        "vat_id": "EE64670685",
+        "address": "Parnu mnt 10, 2695671 S?o Jo?o da Talha, PORTUGAL",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "Net_21",
+      "net_total": "67.10",
+      "tax_total": "16.11"
+    }
+  ],
+  "declined": []
+}

@@ -1,0 +1,105 @@
+{
+  "file": "INV-19.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_type": "INVOICE",
+      "invoice_date": "",
+      "due_date": "",
+      "currency": "GHS",
+      "supplier_name": "Redwater Technologies",
+      "supplier_tax_id": "C9765403675",
+      "supplier_address": "",
+      "customer_name": "Northwind HOLDINGS OÜ",
+      "customer_tax_id": "",
+      "customer_address": "High Street 10",
+      "po_number": "",
+      "gross_total": "8045.40",
+      "subtotal": "6600.00",
+      "total_tax_amount": "1445.40",
+      "discount_amount": "0.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Meal per head",
+          "item_code": "",
+          "quantity": "60",
+          "uom": "EA",
+          "unit_price": "90.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "5400.00",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "5400.00"
+        },
+        {
+          "line_number": 2,
+          "description": "Transportation and Set up",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "1200.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "1200.00",
+          "taxes": [],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "1200.00"
+        }
+      ],
+      "taxes": [
+        {
+          "tax_name": "NHIL",
+          "tax_rate": "2.5",
+          "tax_amount": "165.00",
+          "tax_type_code": "TAX028"
+        },
+        {
+          "tax_name": "GETFund Levy",
+          "tax_rate": "2.5",
+          "tax_amount": "165.00",
+          "tax_type_code": "TAX029"
+        },
+        {
+          "tax_name": "COVID-19 Levy",
+          "tax_rate": "1",
+          "tax_amount": "66.00",
+          "tax_type_code": "TAX030"
+        },
+        {
+          "tax_name": "VAT",
+          "tax_rate": "15",
+          "tax_amount": "1049.40",
+          "tax_type_code": "ZAF_150_VAT"
+        }
+      ],
+      "supplier": {
+        "name": "Redwater Technologies",
+        "vat_id": "C9765403675",
+        "address": "",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "6600.00",
+      "tax_total": "1445.40"
+    }
+  ],
+  "declined": []
+}

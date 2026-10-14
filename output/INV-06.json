@@ -1,0 +1,622 @@
+{
+  "file": "INV-06.pdf",
+  "payables": [
+    {
+      "invoice_number": "8527907727",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2025-04-07",
+      "due_date": "2025-04-07",
+      "currency": "ZAR",
+      "supplier_name": "Northwind Services ZA (Pty) Ltd",
+      "supplier_tax_id": "No9446639440",
+      "supplier_address": "Unit 7 Block B, M5 Office Park, Unit 7, Block B, Eastman, Maitland, Cape Town, 7405",
+      "customer_name": "Maria Reis , Alex",
+      "customer_tax_id": "",
+      "customer_address": "Stand alone building, 1A Bahnhofstrasse 185, Kadaka tee 20, Cape Town",
+      "po_number": "75884754",
+      "gross_total": "1683.98",
+      "subtotal": "1464.15",
+      "total_tax_amount": "169.83",
+      "discount_amount": "0.00",
+      "freight_charges": "50.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Pnp Bananas Box 1.2kg",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "39.1217",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "39.12",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "5.87",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "39.12"
+        },
+        {
+          "line_number": 2,
+          "description": "Pnp Banana Loaf 300g",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "21.7304",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "21.73",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "3.26",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "21.73"
+        },
+        {
+          "line_number": 3,
+          "description": "Liqui-fruit Breakfast Punch Fruit Juice",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "21.7391",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "21.74",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "3.26",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "21.74"
+        },
+        {
+          "line_number": 4,
+          "description": "Liqui-fruit Berry Blaze Juice 1l",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "21.7391",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "21.74",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "3.26",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "21.74"
+        },
+        {
+          "line_number": 5,
+          "description": "Liqui-fruit Cranberry Cooler Juice 1l",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "21.7391",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "21.74",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "3.26",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "21.74"
+        },
+        {
+          "line_number": 6,
+          "description": "Liqui-fruit Orange Fruit Juice 1l",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "21.7391",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "21.74",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "3.26",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "21.74"
+        },
+        {
+          "line_number": 7,
+          "description": "Pnp Ripe & Ready Cling Peaches",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "49.5565",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "49.56",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "7.43",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "49.56"
+        },
+        {
+          "line_number": 8,
+          "description": "Pnp Red Grapes 500g",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "34.7739",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "34.77",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "5.22",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "34.77"
+        },
+        {
+          "line_number": 9,
+          "description": "Pnp White Grapes 500g",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "34.7739",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "34.77",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "5.22",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "34.77"
+        },
+        {
+          "line_number": 10,
+          "description": "Nature Valley Crunchy Oats & Honey",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "60.8609",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "60.86",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "9.13",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "60.86"
+        },
+        {
+          "line_number": 11,
+          "description": "Kellogg's Cocoa & Nutmix Granola",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "63.4696",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "63.47",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "9.52",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "63.47"
+        },
+        {
+          "line_number": 12,
+          "description": "Kellogg's Cranberry & Linseed Granola",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "63.4696",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "63.47",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "9.52",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "63.47"
+        },
+        {
+          "line_number": 13,
+          "description": "Pringles Salt & Vinegar Potato Chips",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "60.8609",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "60.86",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "9.13",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "60.86"
+        },
+        {
+          "line_number": 14,
+          "description": "Pringles Sour Cream & Onion Potato Chips",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "60.8609",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "60.86",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "9.13",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "60.86"
+        },
+        {
+          "line_number": 15,
+          "description": "Pnp Sliced Beef Biltong 300g",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "99.1217",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "99.12",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "14.87",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "99.12"
+        },
+        {
+          "line_number": 16,
+          "description": "Pnp Roasted & Salted Economy Mixed Nuts",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "109.5565",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "109.56",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "16.43",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "109.56"
+        },
+        {
+          "line_number": 17,
+          "description": "Pnp Bakehouse Blueberry Muffins 4 Pack",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "34.7739",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "34.77",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "5.22",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "34.77"
+        },
+        {
+          "line_number": 18,
+          "description": "Pnp Full Cream Smooth Plain Yoghurt 1kg",
+          "item_code": "",
+          "quantity": "2",
+          "uom": "EA",
+          "unit_price": "33.9043",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "67.81",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "10.17",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "67.81"
+        },
+        {
+          "line_number": 19,
+          "description": "Pnp Granola 750g",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "50.4261",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "50.43",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "7.56",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "50.43"
+        },
+        {
+          "line_number": 20,
+          "description": "Pnp Berry Muesli Cereal 750g",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "65.2087",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "65.21",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "9.78",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "65.21"
+        },
+        {
+          "line_number": 21,
+          "description": "Kellogg's Corn Flakes 750g",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "65.2087",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "65.21",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "9.78",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "65.21"
+        },
+        {
+          "line_number": 22,
+          "description": "Clover Uht Full Cream Long Life",
+          "item_code": "",
+          "quantity": "2",
+          "uom": "CS(6)",
+          "unit_price": "86.9478",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "173.90",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "26.08",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "173.90"
+        },
+        {
+          "line_number": 23,
+          "description": "Little Bee Honey Squeeze Bottle 1kg",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "139.1217",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "139.12",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "20.87",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "139.12"
+        },
+        {
+          "line_number": 24,
+          "description": "Pnp Bakehouse Blueberry Muffins 4 Pack",
+          "item_code": "",
+          "quantity": "1",
+          "uom": "EA",
+          "unit_price": "34.7739",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "34.77",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "5.22",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "34.77"
+        },
+        {
+          "line_number": 25,
+          "description": "Online Shopping Bag",
+          "item_code": "",
+          "quantity": "4",
+          "uom": "EA",
+          "unit_price": "1.1304",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "4.52",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "0.68",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "4.52"
+        },
+        {
+          "line_number": 26,
+          "description": "Pnp Carrot & Pecan Nut Muffin",
+          "item_code": "",
+          "quantity": "0",
+          "uom": "EA",
+          "unit_price": "0.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "0.00",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "0.00",
+              "tax_type_code": ""
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "0.00"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Northwind Services ZA (Pty) Ltd",
+        "vat_id": "No9446639440",
+        "address": "Unit 7 Block B, M5 Office Park, Unit 7, Block B, Eastman, Maitland, Cape Town, 7405",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "",
+      "location_code": "",
+      "payment_term_id": "",
+      "net_total": "1464.15",
+      "tax_total": "169.83"
+    }
+  ],
+  "declined": []
+}

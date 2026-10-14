@@ -1,0 +1,72 @@
+{
+  "file": "INV-04.pdf",
+  "payables": [
+    {
+      "invoice_number": "INV7097292303",
+      "invoice_type": "INVOICE",
+      "invoice_date": "2025-04-30",
+      "due_date": "2025-05-31",
+      "currency": "ZAR",
+      "supplier_name": "Northwind Services ZA (Pty) Meridian Print Ltd",
+      "supplier_tax_id": "9446639440",
+      "supplier_address": "Rua do Ouro 5, Unit 7, Block B, Gartenweg 60, Maitland, WESTERN CAPE CAPE TOWN 7405, SOUTH AFRICA",
+      "customer_name": "Larkspur Distribution Meridian Print",
+      "customer_tax_id": "8690782647",
+      "customer_address": "Larkspur Distribution Meridian Print, Gartenweg 173, F04, Kiepersol House, Bahnhofstrasse 300, Darrenwood, Gauteng, 2195, South Africa",
+      "po_number": "",
+      "gross_total": "6620.55",
+      "subtotal": "17157.00",
+      "total_tax_amount": "2573.55",
+      "discount_amount": "13110.00",
+      "freight_charges": "0.00",
+      "insurance_charges": "0.00",
+      "extra_charges": "0.00",
+      "excise_duties": "0.00",
+      "line_items": [
+        {
+          "line_number": 1,
+          "description": "Standard Criminal Verification",
+          "item_code": "",
+          "quantity": "133.00",
+          "uom": "",
+          "unit_price": "129.00",
+          "discount": "0.00",
+          "discount_percentage": "0.00",
+          "total": "17157.00",
+          "taxes": [
+            {
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "2573.55",
+              "tax_type_code": "ZAF_150_VAT"
+            }
+          ],
+          "tax_rate": "",
+          "tax_amount": "",
+          "net_total": "17157.00"
+        }
+      ],
+      "taxes": [],
+      "supplier": {
+        "name": "Northwind Services ZA (Pty) Meridian Print Ltd",
+        "vat_id": "9446639440",
+        "address": "Rua do Ouro 5, Unit 7, Block B, Gartenweg 60, Maitland, WESTERN CAPE CAPE TOWN 7405, SOUTH AFRICA",
+        "supplier_id": ""
+      },
+      "supplier_id": "",
+      "po_id": "",
+      "buyer": {
+        "company_code": "BOLTGROUP",
+        "business_unit_code": "ZA001",
+        "location_code": "LOC_ZA_001"
+      },
+      "company_code": "BOLTGROUP",
+      "business_unit_code": "ZA001",
+      "location_code": "LOC_ZA_001",
+      "payment_term_id": "",
+      "net_total": "17157.00",
+      "tax_total": "2573.55"
+    }
+  ],
+  "declined": []
+}
