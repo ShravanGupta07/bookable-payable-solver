@@ -6,6 +6,16 @@ An autonomous, multimodal Accounts Payable (AP) Reconcile-Repair Solver designed
 
 ## 1. Quickstart
 
+### Setup & Environment
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Configure API Key
+cp .env.example .env   # (or 'copy .env.example .env' on Windows)
+# Add your GEMINI_API_KEY (or GROQ/OPENAI/OPENROUTER key) into .env
+```
+
 ### Single Command Execution
 Run the solver across any input directory of documents (outputs to `output/`):
 
@@ -21,10 +31,10 @@ Verify any generated autodraft with the official ERP recompute check and run the
 python example_check.py sample_autodraft.json
 python example_check.py output/DU-02.json
 
-
 # Run unit tests
 pytest
 ```
+
 
 ---
 
@@ -57,6 +67,7 @@ Located in [`solver/agent_loop.py`](solver/agent_loop.py):
 
 ```text
 ├── run.py                 # Single-command CLI entrypoint with robust API fallbacks
+├── .env.example           # Template for environment variables and API keys
 ├── erp.py                 # Sealed ERP recompute contract (untampered)
 ├── example_check.py       # Oracle check script from assessment kit
 ├── DESIGN.md              # Architectural essay answering the 3 core questions
