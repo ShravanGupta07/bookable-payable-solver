@@ -19,7 +19,8 @@ Verify any generated autodraft with the official ERP recompute check and run the
 ```bash
 # Check ERP recompute against sample or any output
 python example_check.py sample_autodraft.json
-python erp.py output/DU-02.json
+python example_check.py output/DU-02.json
+
 
 # Run unit tests
 pytest

@@ -19,7 +19,14 @@ import sys
 from erp import erp_book
 
 path = sys.argv[1] if len(sys.argv) > 1 else "sample_autodraft.json"
-payable = json.load(open(path, encoding="utf-8"))
+data = json.load(open(path, encoding="utf-8"))
 
-result = erp_book(payable)          # <-- the one call you need: feed it ONE payable dict
-print(f"will_book_gross = {result['will_book_gross']} {result['currency']}")
+if isinstance(data, dict) and "payables" in data:
+    for idx, payable in enumerate(data["payables"]):
+        result = erp_book(payable)
+        inv_no = payable.get("invoice_number", f"Item-{idx+1}")
+        print(f"Payable #{idx + 1} ({inv_no}): will_book_gross = {result['will_book_gross']} {result['currency']}")
+else:
+    result = erp_book(data)          # <-- the one call you need: feed it ONE payable dict
+    print(f"will_book_gross = {result['will_book_gross']} {result['currency']}")
+
